@@ -8,7 +8,6 @@
 puppet_nodes = [
   {:name => 'centos6', :box => 'puppetlabs/centos-6.6-64-nocm'},
   {:name => 'centos7', :box => 'puppetlabs/centos-7.0-64-nocm'},
-  {:name => 'debian6', :box => 'puppetlabs/debian-6.0.10-64-nocm'},
   {:name => 'debian7', :box => 'puppetlabs/debian-7.8-64-nocm'},
   {:name => 'debian8', :box => 'debian/jessie64'},
   {:name => 'ubuntu12', :box => 'puppetlabs/ubuntu-12.04-64-nocm'},
