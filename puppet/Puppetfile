@@ -1,0 +1,15 @@
+forge "https://forge.puppetlabs.com"
+
+mod 'shoekstra-owncloud',
+  :git => "https://github.com/shoekstra/puppet-owncloud.git",
+  :ref => "develop"
+
+# mod 'puppetlabs/apache'
+#
+# mod 'puppetlabs/apt'
+#
+# mod 'puppetlabs/mysql'
+#
+# mod 'puppetlabs/stdlib'
+#
+# mod 'stahnma/epel'
